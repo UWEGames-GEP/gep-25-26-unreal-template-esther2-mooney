@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/esthe/OneDrive/Documents/GT Year 2/GEP/gep-25-26-unreal-template-esther2-mooney/GEP_Template/Content/Blueprints/Items/Base/UseFunction_Base.uasset",
+				"C:/Users/esthe/OneDrive/Documents/GT Year 2/GEP/gep-25-26-unreal-template-esther2-mooney/GEP_Template/Content/Blueprints/Inventory/SystemBase/Enums/ItemType.uasset",
+				"C:/Users/esthe/OneDrive/Documents/GT Year 2/GEP/gep-25-26-unreal-template-esther2-mooney/GEP_Template/Content/Blueprints/Inventory/SystemBase/Structures/InventorySlotStructure.uasset",
+				"C:/Users/esthe/OneDrive/Documents/GT Year 2/GEP/gep-25-26-unreal-template-esther2-mooney/GEP_Template/Content/Blueprints/Items/Base/ItemPickUp_Base.uasset",
+				"C:/Users/esthe/OneDrive/Documents/GT Year 2/GEP/gep-25-26-unreal-template-esther2-mooney/GEP_Template/Content/Blueprints/Inventory/SystemBase/Structures/ItemReferenceMap.uasset",
+				"C:/Users/esthe/OneDrive/Documents/GT Year 2/GEP/gep-25-26-unreal-template-esther2-mooney/GEP_Template/Content/Blueprints/Inventory/SystemBase/Structures/ItemSlotStructure.uasset",
 				"D:/GEP-Unreal-5.4.4-Template/GEP_Template/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
