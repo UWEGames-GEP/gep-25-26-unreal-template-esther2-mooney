@@ -5,15 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/esthe/OneDrive/Documents/GT Year 2/GEP/gep-25-26-unreal-template-esther2-mooney/GEP_Template/Content/Inventory/GameManager.uasset",
 				"C:/Users/esthe/OneDrive/Documents/GT Year 2/GEP/gep-25-26-unreal-template-esther2-mooney/GEP_Template/Content/Inventory/GameStateTypes.uasset",
 				"C:/Users/esthe/OneDrive/Documents/GT Year 2/GEP/gep-25-26-unreal-template-esther2-mooney/GEP_Template/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/esthe/OneDrive/Documents/GT Year 2/GEP/gep-25-26-unreal-template-esther2-mooney/GEP_Template/Content/Inventory/please.uasset",
-				"C:/Users/esthe/OneDrive/Documents/GT Year 2/GEP/gep-25-26-unreal-template-esther2-mooney/GEP_Template/Content/Inventory/asd.uasset",
 				"C:/Users/esthe/OneDrive/Documents/GT Year 2/GEP/gep-25-26-unreal-template-esther2-mooney/GEP_Template/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"C:/Users/esthe/OneDrive/Documents/GT Year 2/GEP/gep-25-26-unreal-template-esther2-mooney/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/CX/USC3DGBD8J8U2YZ3B97SYO.uasset",
 				"C:/Users/esthe/OneDrive/Documents/GT Year 2/GEP/gep-25-26-unreal-template-esther2-mooney/GEP_Template/Content/ThirdPerson/Input/Actions/IA_Pause.uasset",
 				"C:/Users/esthe/OneDrive/Documents/GT Year 2/GEP/gep-25-26-unreal-template-esther2-mooney/GEP_Template/Content/ThirdPerson/Input/Actions/IA_Look.uasset",
+				"C:/Users/esthe/OneDrive/Documents/GT Year 2/GEP/gep-25-26-unreal-template-esther2-mooney/GEP_Template/Content/Inventory/Menu_Manager.uasset",
+				"C:/Users/esthe/OneDrive/Documents/GT Year 2/GEP/gep-25-26-unreal-template-esther2-mooney/GEP_Template/Content/Inventory/GameManager.uasset",
+				"C:/Users/esthe/OneDrive/Documents/GT Year 2/GEP/gep-25-26-unreal-template-esther2-mooney/GEP_Template/Content/Inventory/please.uasset",
+				"C:/Users/esthe/OneDrive/Documents/GT Year 2/GEP/gep-25-26-unreal-template-esther2-mooney/GEP_Template/Content/Inventory/asd.uasset",
 				"D:/GEP-Unreal-5.4.4-Template/GEP_Template/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
